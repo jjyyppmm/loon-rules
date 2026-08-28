@@ -30,3 +30,10 @@ DOMAIN-SUFFIX,appsflyersdk.com
 
 # === 兜底关键字 ===
 DOMAIN-KEYWORD,binance
+
+# === 币安核心防欺诈/提现风控（避免提现异地 IP 冲突） ===
+DOMAIN-SUFFIX,forter.com
+
+# === 币安静态资源 CDN ===
+DOMAIN-SUFFIX,bscdnweb.com
+
