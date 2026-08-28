@@ -1,0 +1,7 @@
+# === Kraken 专属规则集 — 出口：英国动态家宽 ===
+DOMAIN-KEYWORD,kraken
+DOMAIN-KEYWORD,krak
+DOMAIN-SUFFIX,sardine.ai
+DOMAIN-SUFFIX,nsureapi.com
+DOMAIN-SUFFIX,ethoca.com
+DOMAIN-SUFFIX,statsigapi.net
