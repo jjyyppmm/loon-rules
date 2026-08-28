@@ -37,3 +37,9 @@ DOMAIN-SUFFIX,forter.com
 # === 币安静态资源 CDN ===
 DOMAIN-SUFFIX,bscdnweb.com
 
+# === 关键第三方风控/设备指纹（解决提现与登录异地风控） ===
+DOMAIN-SUFFIX,online-metrix.net
+
+# === 币安常用 AWS CloudFront 静态加速 ===
+DOMAIN-SUFFIX,cloudfront.net
+
