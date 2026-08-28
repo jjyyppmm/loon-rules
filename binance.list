@@ -1,0 +1,32 @@
+# === 币安/Binance 走代理规则集 (Loon .list) ===
+# === 币安官方核心与主站 ===
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.org
+
+# === 亚太与移动端备用/镜像域 ===
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.be
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbzh.ac
+
+# === 提现/网关与数据底层 ===
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+
+# === 关键统计与风控 SDK ===
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyersdk.com
+
+# === 兜底关键字 ===
+DOMAIN-KEYWORD,binance
