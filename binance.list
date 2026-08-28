@@ -43,3 +43,6 @@ DOMAIN-SUFFIX,online-metrix.net
 # === 币安常用 AWS CloudFront 静态加速 ===
 DOMAIN-SUFFIX,cloudfront.net
 
+# === 币安底层 AWS 负载均衡网关（解决 Pro 版端口 34222 走兜底问题） ===
+DOMAIN-SUFFIX,elb.amazonaws.com
+
